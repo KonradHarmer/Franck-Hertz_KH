@@ -5,7 +5,7 @@ operating point from calibration scans, extracting extremum positions from noisy
 and fitting the growth of the extremum spacings to obtain the excitation energy, with
 a full treatment of correlated and systematic uncertainties.
 
-ETH P4 Lab
+ETH Physics Laboratory, Semester 7
 
 ![Example sweep with detected extrema](figures/example_sweep.png)
 
